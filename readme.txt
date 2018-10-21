@@ -8,4 +8,4 @@ create dev
 
 zhaoyue6502@163.com
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
